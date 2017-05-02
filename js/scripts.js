@@ -6,6 +6,6 @@ function drawTree(a) {
 				var	star = star+= "*";
 			}
 		}
-		
+		console.log(star);
 	}
 }
